@@ -9,7 +9,7 @@
 
 - ⚡ **I have a <a href="https://discord.com/invite/g9WyB7umjT" target="blank">Discord</a> server to talk about programming**
 
-- ⚡ **My <a href="https://www.twitch.tv/tech_con_agust" target="blank">Twitch</a> where soon I will be broadcasting live **
+- ⚡ **My <a href="https://www.twitch.tv/tech_con_agust" target="blank">Twitch</a> where soon I will be broadcasting live**
 
 
 
