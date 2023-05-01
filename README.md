@@ -5,7 +5,7 @@
 
 - ⚡ **<a href="https://www.linkedin.com/in/agustin-fricke-888706248/" target="blank">LinkedIn</a> in case you want to offer me a job.**
 
-- ⚡ **<a href="https://discord.com/invite/g9WyB7umjT" target="blank">Discord</a> to talk about programming.**
+- ⚡ **<a href="https://discord.com/invite/g9WyB7umjT" target="blank">Discord</a> to talk about code.**
 
 - ⚡ **<a href="https://www.twitch.tv/tech_con_agust" target="blank">Twitch</a> where soon I will be broadcasting live.**
 
