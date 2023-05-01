@@ -3,8 +3,6 @@
 
 - ⚡ **I make <a href="https://www.youtube.com/channel/UC86aR_jiKs0b-qHWeQzX5Xw" target="blank">YouTube</a> videos about programming.**
 
-- ⚡ **My <a href="https://techconagust.com/" target="blank">Website</a> where will you find more programming tutorials.**
-
 - ⚡ **I have <a href="https://www.linkedin.com/in/agustin-fricke-888706248/" target="blank">LinkedIn</a> in case you want to offer me a job.**
 
 - ⚡ **I have a <a href="https://discord.com/invite/g9WyB7umjT" target="blank">Discord</a> server to talk about programming.**
