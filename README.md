@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Agust</h1>
-<h3 align="center">Just a full stack dev looking to make performant projects and ultimately craft really awesome software!</h3>
+<h3 align="center">Just a full stack dev looking to make performant projects and craft really awesome software!</h3>
 
 - ⚡ **I make <a href="https://www.youtube.com/channel/UC86aR_jiKs0b-qHWeQzX5Xw" target="blank">YouTube</a> videos about programming.**
 
