@@ -9,7 +9,7 @@
 
 - ⚡ **<a href="https://www.twitch.tv/tech_con_agust" target="blank">Twitch</a> where soon I will be broadcasting live.**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustfricke&theme=tokyonight)
+
 
 
 
