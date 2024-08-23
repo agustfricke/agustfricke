@@ -1,6 +1,7 @@
+### Hi, I'm Agustin Fricke
 
-<h3 align="start">Hola!</h3>
-
+- Currently programming with Go and TypeScript.
+- Trying to create better software every day.
 
 
 
