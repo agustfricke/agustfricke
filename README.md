@@ -1,6 +1,9 @@
-### Hi, I'm Agustin Fricke
+### agustfricke
 
-- Currently maintaining <a href="https://zustack.com">Zustack</a>, <a href="https://iron-stream.zustack.com">Iron Stream</a> and <a href="https://docs-zustack-cdn.vercel.app">Zustack CDN</a>(The launch will be soon).
+-  Software Developer & Lead Maintainer at [Zustack](https://github.com/zustack)
+  
+## Updates
+  - [Zustack CDN - cdn.zustack.com](https://cdn.zustack.com/dashboard) 0.1 has been released! 
 
 
 
